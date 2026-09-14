@@ -53,11 +53,14 @@ Visit our [official website](https://abot-earth.amap.com/) to explore rich visua
 If our work helps your research, please cite:
 
 ```bibtex
-@techreport{abot_earth_2025,
-    title={ABot-Earth-0.5: Generative 3D Earth Model},
-    year={2025},
-    institution={Amap CV Lab, Alibaba Group},
-    url={https://github.com/amap-cvlab/ABot-Earth-0.5}
+@misc{qian2026abotearth05generative3d,
+      title={ABot-Earth 0.5: Generative 3D Earth Model}, 
+      author={Ming Qian and Tianjian Ouyang and Mingchao Sun and Zijian Wang and Jincheng Xiong and Jiarong Han and Yongchang Zhang and Jiawei Zhang and Xu Wang and Yu Liu and Luyang Tang and Fei Yu and Zengye Ge and Mengmeng Du and Yuan Liu and Nianfei Fan and Song Wang and Yingliang Peng and Chunxue Jia and Yang Liu and Shiying Zeng and Haozhe Shi and Junnan Lai and Hongyu Pan and Zheng Wu and Ning Guo and Mu Xu and Hang Zhang},
+      year={2026},
+      eprint={2606.09967},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.09967}, 
 }
 ```
 
